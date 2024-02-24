@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(72, 179, 179);
+    color: #000000;
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+    background-color: #e6e6e6;
+}
+
+li {
+    text-decoration: none;
+    margin-right: 20px;
+}

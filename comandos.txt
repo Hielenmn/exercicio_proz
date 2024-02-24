@@ -1,0 +1,7 @@
+git init
+git config user.name NOME
+git config user.email email
+git add --all
+git commit -m "descricao do commit"
+git branch NOMEDABRANCH
+git checkout NOMEDABRANCH
