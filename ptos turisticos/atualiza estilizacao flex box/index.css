@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(72, 179, 179);
+    color: #000000;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+main {
+    padding: 10px;
+    background-color: #e6e6e6;
+}
+
+ul {
+    text-decoration: none;
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
